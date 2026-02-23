@@ -12,7 +12,7 @@
 
 I'm a **DevOps enthusiast** focused on mastering the fundamentals of **Linux, Automation, CI/CD, and Cloud Infrastructure**.
 
-I believe strong systems are built on strong basics.
+Strong systems are built on strong basics.
 
 - 🔧 Currently practicing deep Linux internals and shell scripting  
 - ⚙️ Building hands-on CI/CD pipelines and automation workflows  
@@ -52,12 +52,12 @@ I believe strong systems are built on strong basics.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-02W&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-02W&layout=compact&theme=tokyonight&hide_border=true" height="165">
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh-02W&theme=tokyonight&hide_border=true" width="400">
 </div>
 
 ---
@@ -75,7 +75,7 @@ I believe strong systems are built on strong basics.
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-02W&theme=tokyo-night&hide_border=true">
 </div>
 
 ---
@@ -84,7 +84,7 @@ I believe strong systems are built on strong basics.
 
 ### ⚙️ "Automate the predictable. Engineer the resilient."
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social)](https://github.com/YOUR_GITHUB_USERNAME)
+![Profile Views](https://komarev.com/ghpvc/?username=Harsh-02W&color=brightgreen&style=flat-square)
+[![GitHub followers](https://img.shields.io/github/followers/Harsh-02W?label=Follow&style=social)](https://github.com/Harsh-02W)
 
 </div>
