@@ -52,8 +52,8 @@ Strong systems are built on strong basics.
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-02W&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-02W&layout=compact&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=Harsh-02W&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-02W&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165">
 </div>
 
 <div align="center">
