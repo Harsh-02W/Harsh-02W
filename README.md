@@ -40,12 +40,6 @@ Strong systems are built on strong basics.
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
 </p>
 
-### **API Layer**
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apollographql/apollographql-icon.svg" width="40" height="40"/>
-</p>
-
 ### **Cloud & DevOps**
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
