@@ -1,8 +1,10 @@
 <div align="center">
-  
-# Hey 👋 I'm Mukul
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C2FF&center=true&vCenter=true&width=435&lines=DevOps+Enthusiast;Linux+%7C+CI%2FCD+%7C+Cloud;Infrastructure+as+Code;Building+Systems+That+Scale)](https://git.io/typing-svg)
+# 👋 Hi, I'm Mukul
+
+### DevOps Engineer | CI/CD • Kubernetes • Docker • Terraform • AWS
+
+Building scalable, automated, and production-ready systems.
 
 </div>
 
@@ -10,48 +12,93 @@
 
 ## 🚀 About Me
 
-I'm a **DevOps enthusiast** focused on mastering the fundamentals of **Linux, Automation, CI/CD, and Cloud Infrastructure**.
+I am a **DevOps Engineer** focused on designing and automating reliable infrastructure and deployment systems.
 
-Strong systems are built on strong basics.
+I work on transforming manual processes into **scalable, reproducible, and production-grade workflows** using modern DevOps practices.
 
-- 🔧 Currently practicing deep Linux internals and shell scripting  
-- ⚙️ Building hands-on CI/CD pipelines and automation workflows  
-- ☁️ Exploring cloud-native infrastructure and Infrastructure as Code  
-- 📚 Documenting my journey through structured challenges  
-- 🎯 Goal: Design reliable, reproducible, production-ready systems  
+- 🔧 Strong foundation in **Linux, Networking & Shell Scripting**
+- ⚙️ Building **CI/CD pipelines** using GitHub Actions & Jenkins
+- 🐳 Containerizing applications with **Docker & Docker Compose**
+- ☸️ Orchestrating workloads using **Kubernetes (KIND, AWS EKS)**
+- ☁️ Managing infrastructure using **Terraform & Ansible**
+- 🔄 Implementing **GitOps workflows with ArgoCD**
+- 📊 Observability with **Prometheus, Grafana, Loki & OpenTelemetry**
+- 🐍 Using **Python for automation and scripting**
+
+> I focus on building systems that are **automated, observable, and resilient by design.**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ DevOps Tech Stack
 
-### **Core Systems**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
-</p>
+### 🧱 Core Systems
+- Linux (System Administration, Process Management, Networking)
+- Shell Scripting (Bash Automation)
+- Git & GitHub (Version Control & Workflows)
 
-### **Languages & Backend**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-</p>
+---
 
-### **Cloud & DevOps**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/>
-</p>
+### ⚙️ CI/CD & Automation
+- GitHub Actions (CI/CD Pipelines)
+- Jenkins (Pipeline Automation)
+- Workflow Automation & Deployment Strategies
 
-### **Databases**
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-</p>
+---
+
+### 🐳 Containerization & Orchestration
+- Docker & Docker Compose
+- Kubernetes (KIND Clusters, AWS EKS)
+- Container Lifecycle & Deployment Management
+
+---
+
+### ☁️ Cloud & Infrastructure as Code
+- AWS (Compute, Networking Basics)
+- Terraform (Infrastructure Provisioning)
+- Ansible (Configuration Management)
+
+---
+
+### 🔄 GitOps
+- ArgoCD (Continuous Delivery using GitOps principles)
+
+---
+
+### 📊 Observability & Monitoring
+- Prometheus (Metrics Collection)
+- Grafana (Visualization & Dashboards)
+- Loki (Log Aggregation)
+- OpenTelemetry (Distributed Tracing)
+
+---
+
+### 🐍 Scripting & Automation
+- Python (Automation Scripts, Task Optimization)
+
+---
+
+## 🏗️ Featured DevOps Work
+
+### 🚀 End-to-End CI/CD Pipeline
+- Built complete pipeline using **GitHub Actions**
+- Containerized application with **Docker**
+- Deployed to **Kubernetes**
+- Implemented **GitOps with ArgoCD**
+- Integrated **monitoring & logging stack**
+
+---
+
+### ⚙️ Infrastructure as Code (Terraform)
+- Designed reusable infrastructure modules
+- Provisioned cloud resources using Terraform
+- Automated environment setup
+
+---
+
+### 📊 Observability Stack
+- Implemented **Prometheus + Grafana dashboards**
+- Centralized logging using **Loki**
+- Integrated tracing with **OpenTelemetry**
 
 ---
 
@@ -63,17 +110,7 @@ Strong systems are built on strong basics.
 
 ---
 
-## 🏗️ Current Focus
-
-- Linux mastery & system-level understanding  
-- CI/CD pipeline design  
-- Container orchestration  
-- Infrastructure as Code  
-- Building real-world DevOps projects  
-
----
-
-## 📈 Activity Graph
+## 📈 Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Harsh-02W&theme=tokyo-night&hide_border=true">
@@ -81,11 +118,17 @@ Strong systems are built on strong basics.
 
 ---
 
+## 🎯 Current Focus
+
+- Advanced Kubernetes (Scaling, Networking, Security)
+- Production-grade CI/CD pipelines
+- Infrastructure design & system reliability
+- Moving towards **SRE & System Architecture**
+
+---
+
 <div align="center">
 
 ### ⚙️ "Automate the predictable. Engineer the resilient."
-
-![Profile Views](https://komarev.com/ghpvc/?username=Harsh-02W&color=brightgreen&style=flat-square)
-[![GitHub followers](https://img.shields.io/github/followers/Harsh-02W?label=Follow&style=social)](https://github.com/Harsh-02W)
 
 </div>
