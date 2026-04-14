@@ -132,9 +132,9 @@ goal: "Automate the predictable. Engineer the resilient."
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harsh-02W&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" height="165"/>
+<img src="https://beautiful-github-homepage.vercel.app/api?username=Harsh-02W&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9&ring_color=00D9FF" height="165"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harsh-02W&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=6" height="165"/>
+<img src="https://beautiful-github-homepage.vercel.app/api/top-langs/?username=Harsh-02W&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&langs_count=6" height="165"/>
 
 </div>
 
