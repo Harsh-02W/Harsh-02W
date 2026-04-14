@@ -161,7 +161,7 @@ goal: "Automate the predictable. Engineer the resilient."
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Harsh-02W&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
+<img src="https://gh-trophy.cdnsoft.net?username=Harsh-02W&theme=darkhub&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=4" width="100%"/>
 
 </div>
 
