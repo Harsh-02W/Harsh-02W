@@ -24,7 +24,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Harsh-02W/Harsh-02W/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/Harsh-02W//snk/output-svg-only/github-contribution-grid-snake.svg" />
 </p>
 
 
