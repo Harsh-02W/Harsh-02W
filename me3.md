@@ -12,9 +12,11 @@
 </div>
 
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=36BCF7&center=true&vCenter=true&width=600&lines=DevOps+Engineer;AWS+%7C+Kubernetes+%7C+Terraform;CI%2FCD+Automation+Expert;Infrastructure+as+Code+Specialist;Scaling+Kubernetes+Clusters;Building+Resilient+Cloud+Systems;" />
-</p>
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Building+Scalable+Infrastructure+%F0%9F%8F%97%EF%B8%8F;Automating+Deployment+Pipelines+%E2%9A%99%EF%B8%8F;Orchestrating+Kubernetes+Workloads+%E2%98%B8%EF%B8%8F;Designing+Resilient+Cloud+Systems+%E2%98%81%EF%B8%8F;Observability+%7C+Reliability+%7C+Scale+%F0%9F%93%8A)](https://git.io/typing-svg)
+
+</div>
 
 
 <p align="center">
